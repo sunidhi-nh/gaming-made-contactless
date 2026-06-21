@@ -3,7 +3,7 @@
 
 A wearable controller that turns hand tilts into game inputs — built with an ESP32, an MPU6050 accelerometer, and a bit of socket programming.
 
-🎥 Demo: 🎥 [Watch the demo on LinkedIn](https://www.linkedin.com/posts/sunidhi-n-ab2aa72a8_innovation-wearabletech-embeddedsystems-ugcPost-7438618818509406209-bwp6/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEozV2YB24hK3k4rIOQC_fvPT8c20eLBeO0)
+🎥 Demo: <https://www.linkedin.com/posts/sunidhi-n-ab2aa72a8_innovation-wearabletech-embeddedsystems-ugcPost-7438618818509406209-bwp6/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEozV2YB24hK3k4rIOQC_fvPT8c20eLBeO0>
 
 ## How it works
 
